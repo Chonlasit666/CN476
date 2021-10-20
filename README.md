@@ -4,4 +4,11 @@
 ```
 https://www.youtube.com/watch?v=C6NAdDWs0to
 ```
+- InterPlanetary File System (IPFS)
+```
+เป็น protocol ของinternet ที่เป็น distributed system peer to peer network
+โดยเป็นการเก็บข้อมูลแบบcontent based addressing โดยใช้hash function มาช่วยในการเก็บข้อมูล
+เนื่องจากตัวระบบเป็น distributed system จึงสามารถดึงข้อมูลที่ต้องการหาจากnodeใดก็ได้จึงสามารถป้องกันปัญหาการล่มของnetworkได้
+ดีกว่าhttp protocol และป้องกันการถูกจำกัดการเข้าถึงข้อมูล(cencorship)
+```
 
