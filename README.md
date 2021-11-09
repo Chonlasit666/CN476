@@ -11,4 +11,8 @@ https://www.youtube.com/watch?v=C6NAdDWs0to
 เนื่องจากตัวระบบเป็น distributed system จึงสามารถดึงข้อมูลที่ต้องการหาจากnodeใดก็ได้จึงสามารถป้องกันปัญหาการล่มของnetworkได้
 ดีกว่าhttp protocol และป้องกันการถูกจำกัดการเข้าถึงข้อมูล(cencorship)
 ```
+- video IPFS
+```
+https://youtu.be/iE0wfRdoQms
+```
 
